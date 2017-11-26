@@ -1,18 +1,36 @@
 - skill:
-  name: Python & Django
-  level: 98%
+    name: Business Development
+    level:
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+    name: Relationship Management
+    level:
 - skill:
-  name: Angular
-  level: 98%
+    name: Planning & Implementation
+    level:
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+    name: Client Development
+    level:
 - skill:
-  name: Ruby on Rails
-  level: 85%
+    name: Market Trend & Analysis
+    level:
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+    name: Credit Management
+    level:
+- skill:
+    name: Leader & Team Player
+    level:
+- skill:
+    name: Conflict Resolution
+    level:
+- skill:
+    name: Negotiation Skills
+    level:
+- skill:
+    name: Decision Making
+    level:
+- skill:
+    name: Communication Skills
+    level:
+- skill:
+    name: Networking Skills
+    level:
