@@ -1,36 +1,36 @@
-- skill:
-    name: Business Development
-    level: 94%
-- skill:
-    name: Relationship Management
-    level: 85%
-- skill:
-    name: Planning & Implementation
-    level: 84%
-- skill:
-    name: Client Development
-    level: 98%
-- skill:
-    name: Market Trend & Analysis
-    level: 91%
-- skill:
-    name: Credit Management
-    level: 99%
-- skill:
-    name: Leader & Team Player
-    level: 81%
-- skill:
-    name: Conflict Resolution
-    level: 85%
-- skill:
-    name: Negotiation Skills
-    level: 99%
-- skill:
-    name: Decision Making
-    level: 94%
-- skill:
-    name: Communication Skills
-    level: 84%
-- skill:
-    name: Networking Skills
-    level: 87%
+# - skill:
+#     name: Business Development
+#     level: 94%
+# - skill:
+#     name: Relationship Management
+#     level: 85%
+# - skill:
+#     name: Planning & Implementation
+#     level: 84%
+# - skill:
+#     name: Client Development
+#     level: 98%
+# - skill:
+#     name: Market Trend & Analysis
+#     level: 91%
+# - skill:
+#     name: Credit Management
+#     level: 99%
+# - skill:
+#     name: Leader & Team Player
+#     level: 81%
+# - skill:
+#     name: Conflict Resolution
+#     level: 85%
+# - skill:
+#     name: Negotiation Skills
+#     level: 99%
+# - skill:
+#     name: Decision Making
+#     level: 94%
+# - skill:
+#     name: Communication Skills
+#     level: 84%
+# - skill:
+#     name: Networking Skills
+#     level: 87%
